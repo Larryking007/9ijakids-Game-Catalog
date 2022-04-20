@@ -1,10 +1,12 @@
 import "./App.css";
 import "@fortawesome/react-fontawesome";
 import Footer from "./components/footer";
+import Header from "./components/header";
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <Footer />
     </div>
   );

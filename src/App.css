@@ -8,6 +8,13 @@ body {
   margin: 0;
   font-family: "Inter", sans-serif;
 }
+.header {
+  display: flex;
+  justify-content: space-around;
+  background: #fdc800;
+  padding: 1.7em;
+  width: 100%;
+}
 .footer {
   border: 1px solid #707070;
   width: 100%;
