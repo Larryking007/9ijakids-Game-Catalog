@@ -27,7 +27,6 @@ const Footer = () => {
               <li className=" list-items">
                 <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>{" "}
                 9ijakids@test.com
-                <i></i>
               </li>
               <li className="list-items">
                 <FontAwesomeIcon icon={faPhone} />
